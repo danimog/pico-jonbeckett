@@ -2,10 +2,6 @@
 
 A simple theme for the [Pico](http://picocms.org/) CMS using [BootStrap](http://getbootstrap.com).
 
-### Demonstration
-
-You can see the theme in action at **[jonbeckett.com](http://jonbeckett.com)**.
-
 ### Installation Instructions
 
 * Copy the contents of the theme folder into the "themes" folder of your Pico installation.
